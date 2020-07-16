@@ -2,9 +2,10 @@
 
 #### What interests me about data science.
 
-### Markdown
+### Data Cleaning and Data tidying
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Below is  snippet of the processes involved when using Jupyter Notebook to clean and organise data. This is an important step as it creates data that is more understandable,
+quicker and easier to run analysis.
 
 ```markdown
 Syntax highlighted code block
@@ -24,7 +25,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-Exploratory Data analysis
+### Exploratory Data analysis
 ```markdown
 # Here I will put examples of my code 
 ## Using exploratory analysis to understand the trend
