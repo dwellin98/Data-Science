@@ -24,4 +24,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+Exploratory Data analysis
+```markdown
+# Here I will put examples of my code 
+## Using exploratory analysis to understand the trend
+
+
+```
+
 
