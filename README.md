@@ -30,6 +30,7 @@ Syntax highlighted code block
 
 ### Exploratory Data analysis
 [Here is a link to an EDA project](https://github.com/dwellin98/dwellin98.github.io/blob/master/Pokemon.ipynb)
+![](https://github.com/dwellin98/dwellin98.github.io/blob/master/images/Capture.JPG)
 ```markdown
 # Here I will put examples of my code 
 ## Using exploratory analysis to understand the trend
