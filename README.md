@@ -11,7 +11,7 @@ Below is  snippet of the processes involved when using Jupyter Notebook to clean
 quicker and easier to run analysis.
 
 - Identifying the inconsistencies within the data set such as NaaN, empty and data that is of an incorrect type.
-- Tyding indexes, collumns creating a more understandable data frame.
+- Formatting dataframe column names and indexes to create organised and more understandable data.
 -
 
 ```markdown
