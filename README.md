@@ -38,7 +38,7 @@ Syntax highlighted code block
 - Identifying storylines within the data set through the use of visualisation.
 - Whatintrigued me about exploratory data anaylsis it the use of colour, shape and form to convey meaning. The humna congnitve percpetion allows us to extract emaning and make sense of the graphs displayed.
 
-[Here is a link to an EDA project](https://github.com/dwellin98/dwellin98.github.io/blob/master/Pokemon.ipynb)
+[Here is a link to an EDA project](https://github.com/dwellin98/dwellin98.github.io/blob/master/Pokemon%20EBA.ipynb)
 ![](https://github.com/dwellin98/dwellin98.github.io/blob/master/images/Capture.JPG)
 ```markdown
 # Here I will put examples of my code 
