@@ -1,6 +1,6 @@
 ## Welcome to Darnells Github page
 [Here is a link to an EDA project](https://github.com/dwellin98/dwellin98.github.io/blob/master/Pokemon%20EBA.ipynb)
-![](https://github.com/dwellin98/dwellin98.github.io/blob/master/images/Capture.JPG)
+
 
 #### What interests me about data science.
 What particualr interests me about data science is the exploratory analysis working within the Clinical Research indudstry has opended my eye to how crucial data is within drug development and undertanding the pharamkinetics how to the body metoblises thed drug. It's an industry that is data rich an abudance of data being able to perform anaylsis and udnerstand the effacy fo the drug. An example of this is trying to indentify areas of success. An example of this would be the average temperature of participants was considerably lower than participants how took the placebo, although that may be a very trival example it highlights the level of insight you can asitane from the exploratiry anaylsis.
@@ -18,7 +18,7 @@ quicker and easier to run analysis.
 
 ```markdown
 
-
+![](https://github.com/dwellin98/dwellin98.github.io/blob/master/images/Capture.JPG)
 [Link](url) and ![Image](src)
 ```
 
