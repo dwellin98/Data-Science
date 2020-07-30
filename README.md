@@ -18,7 +18,7 @@ quicker and easier to run analysis.
 
 ```markdown
 
-![](https://github.com/dwellin98/dwellin98.github.io/blob/master/images/Capture.JPG)
+![](/images/Capture.JPG)
 [Link](url) and ![Image](src)
 ```
 
