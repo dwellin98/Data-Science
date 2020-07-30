@@ -1,5 +1,5 @@
 ## Welcome to Darnells Github page
-[Here is a link to an EDA project](https://github.com/dwellin98/dwellin98.github.io/blob/master/Pokemon%20EBA.ipynb)
+
 
 
 #### What interests me about data science.
@@ -14,13 +14,9 @@ quicker and easier to run analysis.
 
 - Identifying the inconsistencies within the data set such as NaaN, empty and data that is of an incorrect type.
 - Formatting data frame column names and indexes to create organised and more understandable data.
--
-
-```markdown
 
 ![](/images/Capture.JPG)
 [Link](url) and ![Image](src)
-```
 
 ### Exploratory Data analysis
 - Categorising data into smaller data frames to perform a more granular analysis.
@@ -29,10 +25,10 @@ quicker and easier to run analysis.
 - What Intrigued me about exploratory data analysis is the use of colour, shape and form to convey meaning. Human cognitive perception allows us to extract meaning and make sense of the graphs displayed.
 
 
-```markdown
-# Here I will put examples of my code 
-## Using exploratory analysis to understand the trend
+[Here is a link to an EDA project](https://github.com/dwellin98/dwellin98.github.io/blob/master/Pokemon%20EBA.ipynb)
 
 
-```
+### Here I will put examples of my code 
+### Using exploratory analysis to understand the trend
+
 
