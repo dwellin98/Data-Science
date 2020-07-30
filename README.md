@@ -16,7 +16,7 @@ quicker and easier to run analysis.
 - Formatting data frame column names and indexes to create organised and more understandable data.
 
 ![](/images/Capture.JPG)
-[Link](url) and ![Image](src)
+
 
 ### Exploratory Data analysis
 - Categorising data into smaller data frames to perform a more granular analysis.
