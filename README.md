@@ -28,7 +28,12 @@ quicker and easier to run analysis.
 [Here is a link to an EDA project](https://github.com/dwellin98/dwellin98.github.io/blob/master/Pokemon%20EBA.ipynb)
 
 
-### Here I will put examples of my code 
-### Using exploratory analysis to understand the trend
+### Machine learning basics
+- I began to learn about different Machine learning models and how each type has a specific purpose which ultimately depends on the problem/question you are trying to answer.
+- Being relatively new to machine learning I decided to  use a dataset I had previously used. I wanted to predict whether a Pokemon will be legendary or Standard.
+- Firstly I had to research and understand the theoretical concepts and processes involved such as making sure the data is in the right format for a Machine Learning model.    Training and fitting the model. Understanding the role of features and target values, the cardinality of a series with a data frame. 
+-In conclusion I chose to use a classification model more specifically the Support Vector Machine model as what i wanted to predict was categorical data.
+
+[Here is a link to an SVM project](https://github.com/dwellin98/dwellin98.github.io/blob/master/Pokemon%20SVM.ipynb)
 
 
