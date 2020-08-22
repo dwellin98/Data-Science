@@ -1,8 +1,4 @@
-## Welcome to Darnell's Github page
-
-
-
-#### What interests me about data science.
+### What interests me about data science.
 What particularly interests me about data science is the exploratory analysis working within the Clinical Research industry has opened my eye to how crucial data is within drug development and understanding the pharmacokinetics. It's an industry that is data rich being able to perform statiscal analysis and understand the efficacy of the drug. An example of this would be the average temperature of participants was considerably lower than participants who took the placebo, although that may be a very trivial example it highlights the level of insight you can asitane from exploratory analysis.
 My intermediate SQL skills have provided me a good introduction to data analysis especially with relational databases which led me on to learning a more powerful tool within
 Python programming libraries such as Numpy, Pandas, Matplotlib being able to deal with much larger data sets.
