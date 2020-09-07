@@ -17,12 +17,13 @@ quicker and easier to run analysis.
 
 ### Exploratory Data analysis
 - Categorising data into smaller data frames to perform a more granular analysis.
+<img src="https://github.com/dwellin98/Exploratory-Data-Analysis/blob/master/images/PokemonEDA1.JPG" width=40% height=40%>
 - Identifying unconventional trends within  the data set to provoke diversification of thought.
 - Identifying storylines within the data set through the use of visualisation.
 - What Intrigued me about exploratory data analysis is the use of colour, shape and form to convey meaning. Human cognitive perception allows us to extract meaning and make sense of the graphs displayed.
 
 
-[Here is a link to an EDA project](https://github.com/dwellin98/dwellin98.github.io/blob/master/Pokemon%20EBA.ipynb)
+[Here is a link to an EDA project](https://github.com/dwellin98/Exploratory-Data-Analysis/blob/master/Pokemon.ipynb)
 
 
 ### Machine learning basics
