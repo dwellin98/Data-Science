@@ -13,7 +13,6 @@ quicker and easier to run analysis.
 - Identifying the inconsistencies within the data set such as NaaN, empty and data that is of an incorrect type.
 - Formatting data frame column names and indexes to create organised and more understandable data.
 
-![](/images/Capture.JPG)
 
 
 ### Exploratory Data analysis
